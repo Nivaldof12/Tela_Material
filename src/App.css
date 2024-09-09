@@ -1,0 +1,22 @@
+body {
+  background-color: #121212;
+  color: white;
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+}
+
+.MuiAvatar-root {
+  background-color: #f48fb1 !important;
+}
+
+.MuiTypography-root {
+  color: white !important;
+}
+
+.MuiLink-root {
+  color: #90caf9 !important;
+}
+
+.MuiButton-contained {
+  background-color: #90caf9 !important;
+}
